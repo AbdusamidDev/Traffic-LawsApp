@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="time">
+        <item>Type Of Rule</item>
+        <item>@string/array1</item>
+        <item>@string/array2</item>
+        <item>@string/array3</item>
+        <item>@string/array4</item>
+    </string-array>
+</resources>

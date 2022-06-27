@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Road Rules</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text">Railway crossing with shlagbaum</string>
+    <string name="msg">Add Road Rule</string>
+    <string name="hint">To Add Photo Click The Image Above</string>
+    <string name="save">Save</string>
+    <string name="longword">This road sign is equipped with a blocking device
+it is installed without reaching the railway intersection and
+blocking the drivers of vehicles ahead
+warn about the presence of the device.</string>
+    <string name="test">This is a preview text</string>
+    <string name="array1">Warning</string>
+    <string name="array2">Privileged</string>
+    <string name="array3">Prohibiting</string>
+    <string name="array4">Ordering</string>
+    <string name="change">Edit</string>
+    <string name="dialog_delete">Do you really want to delete this road sign?</string>
+    <string name="ha">Yes</string>
+    <string name="yo_q">no</string>
+    <string name="add_road_rule">Add Road Rule</string>
+    <string name="to_add_photo_click_the_image_above">To Add Photo Click The Image Above</string>
+    <string name="road_rule_name">Road Rule Name</string>
+    <string name="road_rule_description">Road Rule Description</string>
+    <string name="about_program">About Program</string>
+    <string name="about_the_program_reference">About The Program Reference</string>
+    <string name="edit">Edit</string>
+    <string name="sorted_rules">Sorted Rules</string>
+    <string name="delete">Delete</string>
+    <string name="traffic_laws">Traffic Laws</string>
+    <string name="tab_item">Tab item</string>
+    <string name="types_of">Types of</string>
+    <string name="this_app_was_created_by_abdusamid_muhammadov">This App Was Created By Abdusamid Muhammadov</string>
+    <string name="about_creator">About Creator</string>
+    <string name="links_to_my_social_websites">Links To My Social Websites!</string>
+    <string name="my_name">Muhammadov Abdusamid</string>
+</resources>
